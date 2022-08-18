@@ -14,3 +14,9 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Laboratorio"
 include ':app'
+include ':login'
+include ':register'
+include ':news'
+include ':exams'
+include ':notifications'
+include ':common'
